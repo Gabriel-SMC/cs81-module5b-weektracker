@@ -2,4 +2,4 @@ My predictions were almost accurate; while I was indeed right with productivity 
 
 What surprised me about my week is how little other activities factored in the week. It shows what exactly I dedicate time towards compared to everything else.
 
-The higher-order function that was the most useful was function getAverageEnjoymentByTime(data). This was definitely the trickiest function I had to set up and make sure it was working properly to avoid syntax errors, but I am happy with what I managed to create.
+The higher-order function that was very useful for the code was function getAverageEnjoymentByTime(data). This was definitely the trickiest function I had to set up and make sure it was working properly to avoid syntax errors, but I am happy with what I managed to create.
